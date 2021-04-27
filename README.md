@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UrveshVernekar
+- 👋 Hi, I’m Urvesh Vernekar
 - 👀 I’m interested in Web and Android Development
 - 🌱 I’m currently learning NEAR to build secure web apps
 - 📫 You can reach out to me on Gmail: urveshvernekar8@gmail.com
