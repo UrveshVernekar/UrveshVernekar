@@ -1,8 +1,29 @@
-- 👋 Hi, I’m Urvesh Vernekar
-- 👀 I’m interested in Web and App development
-- 📫 You can reach out to me on Gmail: urveshvernekar8@gmail.com
+## 👋 Hi, I’m Urvesh Vernekar
 
-<!---
-UrveshVernekar/UrveshVernekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full-stack Web Developer building reliable, production-ready applications with a strong focus on **real-world use cases**, **performance**, and **clean architecture**.
+
+### 💼 What I work on
+- 🌐 Modern web apps using **React, Next.js (App Router), TypeScript**
+- 🎨 UI development with **Tailwind CSS, Shadcn UI**
+- 🧠 Backend APIs with **Node.js**, **MySQL**, **PostgreSQL**
+- 📊 Dashboards, reporting systems & data-driven applications
+- 📺 Industrial & enterprise apps (Android TV dashboards, IoT integrations)
+- ⚙️ Automation scripts & system integrations
+
+### 🛠 Tech Stack
+**Frontend:** React, Next.js, Tailwind CSS, MUI  
+**Backend:** Node.js, REST APIs  
+**Databases:** MySQL, PostgreSQL, MongoDB
+**Tools:** Git, PM2, Linux, Android Debug Bridge (ADB)  
+
+### 📌 Currently
+- Building scalable dashboards and internal enterprise tools
+- Working on data platforms & production monitoring systems
+- Improving performance, reliability, and DX in full-stack apps
+
+### 📫 Reach me
+- ✉️ Email: **urveshvernekar8@gmail.com**
+
+---
+
+⭐ I enjoy solving practical problems and turning complex requirements into simple, maintainable solutions.
