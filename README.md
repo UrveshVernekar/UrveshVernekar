@@ -13,7 +13,7 @@
 ### 🛠 Tech Stack
 **Frontend:** React, Next.js, Tailwind CSS, MUI  
 **Backend:** Node.js, REST APIs  
-**Databases:** MySQL, PostgreSQL, MongoDB
+**Databases:** MySQL, PostgreSQL, MongoDB  
 **Tools:** Git, PM2, Linux, Android Debug Bridge (ADB)  
 
 ### 📌 Currently
